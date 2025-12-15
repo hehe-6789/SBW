@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/octoplus.png</file>
+        <file>picture/octoback.png</file>
+    </qresource>
+    <qresource prefix="/login">
+        <file>allpicture/login/octobackward.jpg</file>
+        <file>allpicture/login/octobackward2.jpg</file>
+        <file>allpicture/login/password.png</file>
+        <file>allpicture/login/username.png</file>
+    </qresource>
+    <qresource prefix="/mainwindow">
+        <file>allpicture/mainwindow/0AD2D35A1058B80D3E2A79A99BC219CD.jpg</file>
+        <file>allpicture/mainwindow/0C10D90D844FBC8B4821774C1D9C78B3.jpg</file>
+        <file>allpicture/mainwindow/6C6E2BE920C2FE2F907466E1CD9EBF2E.jpg</file>
+        <file>allpicture/mainwindow/7D64B009C12274DF7C2EA84A1E7070FE.jpg</file>
+        <file>allpicture/mainwindow/4823E78CB7828113F0A4CD051F828955.jpg</file>
+        <file>allpicture/mainwindow/7732E7555C3317D9A68AEAFECBC7D1F7.jpg</file>
+        <file>allpicture/mainwindow/A006A6551603E34175E487C03ADCA16E.jpg</file>
+        <file>allpicture/mainwindow/B3C5E71600B9B30CD3F2882DDD035F07.jpg</file>
+        <file>allpicture/mainwindow/BF4B79D38527F077CF826F6361CF1BD4.jpg</file>
+        <file>allpicture/mainwindow/C01605FD34E3AB8F9C41B830CA6E02DE.jpg</file>
+        <file>allpicture/mainwindow/DCAD2494251CBA9F47EC1DC084DF9551.jpg</file>
+        <file>allpicture/mainwindow/3.png</file>
+        <file>allpicture/mainwindow/5.png</file>
+        <file>allpicture/mainwindow/7.png</file>
+        <file>allpicture/mainwindow/8.png</file>
+        <file>allpicture/mainwindow/9.png</file>
+    </qresource>
+</RCC>
